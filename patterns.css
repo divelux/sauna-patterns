@@ -1,0 +1,11 @@
+/*! Sauna Patterns | artwork CC BY 4.0, CSS MIT | DIVELUX - https://diveluxsaunahat.com */
+/* Usage: <div class="sauna-pattern sauna-pattern-steam"></div>. Change the size with --sauna-tile. */
+.sauna-pattern { background-repeat: repeat; background-size: var(--sauna-tile, 240px) var(--sauna-tile, 240px); }
+.sauna-pattern-steam { background-color: #efe9df; background-image: url("svg/steam.svg"); }
+.sauna-pattern-stones { background-color: #1b1512; background-image: url("svg/stones.svg"); }
+.sauna-pattern-planks { background-color: #ecd6b2; background-image: url("svg/planks.svg"); }
+.sauna-pattern-hats { background-color: #f6f3ee; background-image: url("svg/hats.svg"); }
+.sauna-pattern-leaves { background-color: #f6f3ee; background-image: url("svg/leaves.svg"); }
+.sauna-pattern-drops { background-color: #efe9df; background-image: url("svg/drops.svg"); }
+.sauna-pattern-snow { background-color: #22303a; background-image: url("svg/snow.svg"); }
+.sauna-pattern-kit { background-color: #1c110b; background-image: url("svg/kit.svg"); }
